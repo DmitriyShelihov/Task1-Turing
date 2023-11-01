@@ -1,0 +1,63 @@
+ a*b>
+ b b>
+0b0c>
+1b1c>
+0c0c>
+1c1c>
+ c d<
+0d0e<
+1d1e<
+0e0f<
+1e1f<
+0f0d<
+1f1d<
+ d g>
+ e0u<
+ u0g>
+ f0g>
+*d*g>
+*e*g>
+*f*g>
+0g0g>
+1g1g>
+ g^h<
+0h D<
+1h E<
+0D F<
+1D G<
+0E H<
+1E i<
+0F j>
+1F k>
+0G l>
+1G m>
+0H n>
+1H o>
+0i p>
+1i q>
+ j j>
+ k k>
+ l l>
+ m m>
+ n n>
+ o o>
+ p p>
+ q q>
+^j0v<
+^k4v<
+^l2v<
+^m6v<
+^n1v<
+^o5v<
+^p3v<
+^q7v<
+ v^x<
+ x x<
+0x0h>
+1x1h>
+ h h<
+*x*z>
+ z z>
+^z A<
+ A A<
+*A X<
